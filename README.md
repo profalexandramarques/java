@@ -1,7 +1,6 @@
 # Java
 Algoritmos em java
-![image](https://github.com/user-attachments/assets/643ff4a5-e549-427c-a98a-055fe1713e42)
-
+![image](https://github.com/user-attachments/assets/d0d6a726-8a2b-4b56-bb40-f778ffda93f1)
 
 ## Sobre
 Professora Alexandra Marques
