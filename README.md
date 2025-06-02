@@ -6,5 +6,5 @@
 ## Sobre
 Professora Alexandra Marques
 
-<img src="github.com/profalexandramarques/java/blob/main/duke.png" alt="Duke">
+<img src="https:\\github.com/profalexandramarques/java/blob/main/duke.png" alt="Duke">
 
